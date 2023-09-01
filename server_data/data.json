@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Phongnaphat Chuchuai",
+      "email": "phong@gmail.com",
+      "password": "123456",
+      "gender": "None"
+    },
+    {
+      "id": 2,
+      "fullname": "test",
+      "email": "test@mail.com",
+      "password": "1q2w3e4r",
+      "gender": "Female"
+    }
+  ]
+}
